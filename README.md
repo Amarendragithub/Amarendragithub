@@ -1,7 +1,7 @@
 
 <h1>Hi there, I'm <a href="https://amarendrasahoo-85e7e.web.app/">Amarendra Sahoo </a>👋</h1>
 
-<img src="[https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/hi.gif](https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif)" height="300px" width="300px"> 
+<img src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif" height="300px" width="300px"> 
 
 •	🔭 I’m currently a Student!!!
 
