@@ -39,3 +39,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarendrasahoo&show_icons=true&theme=outrun" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun" />
 
+<p align="center">
+<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/snake.svg">
+</p>
+
