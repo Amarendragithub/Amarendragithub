@@ -1,45 +1,50 @@
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h1>Hi there, I'm <a href="https://amarendrasahoo-85e7e.web.app/">Amarendra Sahoo </a>👋</h1>
+<h3 align="center">A Passionate Test Engineer</h3>
 
-<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="300px" width="300px"> 
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding" height ="400" width="400">
 
-•	🔭 I’m currently a Student!!!
 
-•	🌱 I’m currently learning Software Technology.
 
-•	🤔 I’m looking for for internships and research projects in the field of Software Technology.
+•	🔭 I’m currently a Test Engineer!!!
 
-•	💬 Ask me about AWS or any tech related to Software.
+•	🌱 I’m currently working as QA Intern in StockxBid.
+
+•	🤔 I’m always like to work with new technology..
+
+•	💬 Ask me about SDET or any tech related to Software.
 
 •	😄 Pronouns: He/His
 
-•	📫 How to reach me:
-   
-   <a href="https://www.facebook.com/amarendra.bahubali.3323/">
-      <img src="https://exploitus.chinmayakumarbiswal.in/image/facebook.png" height="40px" width="40px">
-   </a>
-   <a href="https://www.instagram.com/__s_a___n_u__/">
-      <img src="https://exploitus.chinmayakumarbiswal.in/image/instagram.png" height="40px" width="40px">
-    </a>
-    <a href="https://www.linkedin.com/in/amarendra-sahoo-361537229/">
-       <img src="https://exploitus.chinmayakumarbiswal.in/image/linkedin.png" height="40px" width="40px">
-   </a>
-    <a href="https://twitter.com/Amarendra788?t=bNH_hANm4ZoQ1eXwyZ5HZA&s=09">
-      <img src="https://exploitus.chinmayakumarbiswal.in/image/twitter.png" height="40px" width="40px">
-   </a>
+- 📫 How to reach me : amarendrasahoo787@gmail.com 📧
 <br>
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="400px" width="600px"> 
-<h1>Describe about  me</h1>
 
+<h3 align="left">🥨Connect with me:</h3><hr><br>
+<p align="left">
+<a href="https://x.com/AMARENDRAS37009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AMARENDRAS37009" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amarendra-sahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/amarendra-sahoo" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/vZvKTdnLuJPiaztb/?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amarendrasahoo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__s_a___n_u__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amarendrasahoo" height="30" width="40" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Amarendrasahoo" height="30" width="40" /></a>
+</p>
+<br><br>
 
-⚡ I am currently pursuing Master in Computer Application from Centurion University of Technology and Management , BBSR , Odisha .
+<img align="left" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="happy coder photo" height="365" width="630"><br><br><br><br>
+<br><br><br><br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br><br><br>
 
-⚡ I am looking for growth. Currently, I’m looking for for internships and research projects in the field of Software Technology  and to build up my career and skills. 
-<hr>
+<h2 align="left"> 😎 Describe About Me </h2><br>
+<p align="left">
+👋 Hello! I'm Amarendra Sahoo, originally from Odisha and currently based in Bangalore. I'm passionate about ensuring quality in software products, and I'm currently honing my skills as a QA Intern at StockxBid Technologies.</p><br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amarendrasahoo&show_icons=true&theme=outrun" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun" />
 
-<p align="center">
-<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/snake.svg">
-</p>
 
+<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/snake.svg">
