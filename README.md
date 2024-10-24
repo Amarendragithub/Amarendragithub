@@ -9,7 +9,7 @@
 
 •	🔭 I’m currently a Test Engineer!!!
 
-•	🌱 I’m currently working as QA Intern in StockxBid.
+•	🌱 I’m currently working as QA in HashedIn By Deloitte.
 
 •	🤔 I’m always like to work with new technology..
 
